@@ -1,0 +1,242 @@
+2024-07-14 09:41:30 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-14 09:41:41 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14960, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-14 09:41:41 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+
+2024-07-16 21:00:42 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-16 21:00:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16268, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-16 21:00:44 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+2024-07-16 21:00:46 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16268, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-16 21:00:46 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+2024-07-16 21:00:46 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2024-07-16 21:00:46 *ERROR*      Failed to inject image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'.
+Error code 0xC000010E
+2024-07-16 21:00:56 *NORMAL*     Image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll' is already in the list
+2024-07-16 21:01:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16268, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-16 21:01:02 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+2024-07-16 21:01:02 *ERROR*      Failed to inject image using default injection, status: 0xC000010E
+2024-07-16 21:01:02 *ERROR*      Failed to inject image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'.
+Error code 0xC000010E
+
+2024-07-16 21:03:33 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-16 21:03:38 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16268, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-16 21:03:38 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\YimMenu (1).dll'
+
+2024-07-16 21:08:20 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-16 21:08:20 *ERROR*      File "C:\Users\Administrator\Desktop\YimMenu (1).dll" is not a valid PE image
+2024-07-16 21:08:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9516, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-16 21:08:24 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu (1).dll'
+
+2024-07-18 09:39:44 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-18 09:39:51 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12132, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-18 09:39:51 *CRITICAL*   Injecting image 'C:\Users\Administrator\Downloads\YimMenu (2).dll'
+
+2024-07-18 10:05:59 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-18 10:05:59 *ERROR*      File "C:\Users\Administrator\Downloads\YimMenu (2).dll" is not a valid PE image
+2024-07-18 10:06:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15824, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-18 10:06:17 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-07-20 11:30:59 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-20 11:31:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3896, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-20 11:31:01 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+2024-07-20 11:41:43 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-20 11:41:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14756, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-20 11:41:45 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-07-25 21:25:40 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-25 21:25:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3168, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-25 21:25:42 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-07-28 10:04:57 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-28 10:04:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15692, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-28 10:04:59 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-07-30 16:01:05 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-07-30 16:01:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13940, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-07-30 16:01:31 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-02 19:09:30 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-02 19:09:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13748, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-02 19:09:34 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-03 22:39:38 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-03 22:39:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14604, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-03 22:39:39 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-03 22:55:29 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-03 22:55:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11896, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-03 22:55:30 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-08 06:24:22 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-08 06:24:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12376, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-08 06:24:24 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+2024-08-08 06:51:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12376, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-08 06:51:36 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+2024-08-08 06:51:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12376, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-08 06:51:39 *ERROR*      Can not attach to the process.
+An invalid Client ID was specified.
+
+
+2024-08-08 06:51:42 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-08 06:51:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8620, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-08 06:51:44 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-08 13:52:30 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-08 13:52:32 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13784, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-08 13:52:32 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-11 14:59:14 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-11 14:59:16 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16104, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-11 14:59:16 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-08-11 15:02:59 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-08-11 15:03:00 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15808, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-08-11 15:03:00 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-09-01 11:35:46 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-01 11:35:46 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu .dll" is not a valid PE image
+2024-09-01 11:35:50 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 17216, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-01 11:35:50 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu (2).dll'
+
+2024-09-13 21:48:17 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-13 21:48:17 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu (2).dll" is not a valid PE image
+2024-09-13 21:48:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16892, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-13 21:48:28 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu .dll'
+
+2024-09-19 07:36:32 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-19 07:36:32 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu .dll" is not a valid PE image
+2024-09-19 07:36:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15608, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-19 07:36:36 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+
+2024-09-20 18:37:27 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-20 18:37:27 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu.dll" is not a valid PE image
+
+2024-09-20 18:37:30 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-20 18:37:30 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu.dll" is not a valid PE image
+2024-09-20 18:37:41 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11516, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-20 18:37:41 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll'
+
+2024-09-20 18:55:58 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-20 18:56:10 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16208, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-20 18:56:10 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll'
+
+2024-09-22 20:11:20 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-22 20:11:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6100, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-22 20:11:36 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll'
+
+2024-09-24 21:01:12 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-24 21:01:16 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2060, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-24 21:01:16 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll'
+
+2024-09-24 21:30:51 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-24 21:30:53 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8340, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-24 21:30:53 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll'
+
+2024-09-29 16:44:28 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-09-29 16:44:29 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\Yim Menu V2 BE.dll" is not a valid PE image
+2024-09-29 16:44:48 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12064, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-29 16:44:48 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+2024-09-29 16:45:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12064, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-09-29 16:45:02 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-02 08:48:05 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-02 08:48:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15284, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-02 08:48:19 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+
+2024-10-02 15:02:43 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-02 15:02:45 *NORMAL*     Image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll' is already in the list
+2024-10-02 15:02:57 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15688, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-02 15:02:57 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+
+2024-10-04 11:56:28 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-04 11:56:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1652, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-04 11:56:39 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-04 14:49:49 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-04 14:49:50 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 18712, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-04 14:49:50 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-05 12:29:12 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-05 12:29:16 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13912, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-05 12:29:16 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-05 14:20:16 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-05 14:20:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14036, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-05 14:20:17 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-05 15:44:57 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-05 15:44:58 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19488, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-05 15:44:58 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-05 20:57:00 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-05 20:57:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8404, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-05 20:57:01 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll'
+
+2024-10-07 12:35:33 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-07 12:35:33 *ERROR*      File "C:\Users\Administrator\Desktop\Yim\YimMenu v5 BE Disabled.dll" is not a valid PE image
+2024-10-07 12:35:38 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19064, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-07 12:35:38 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-07 13:46:58 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-07 13:47:13 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7984, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-07 13:47:13 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 11:48:47 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 11:48:48 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7496, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 11:48:48 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 11:53:45 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 11:53:47 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15420, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 11:53:47 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 12:54:28 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 12:54:29 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8272, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 12:54:29 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 15:15:15 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 15:15:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19136, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 15:15:17 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 15:51:13 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 15:51:15 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16596, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 15:51:15 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 17:03:33 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 17:03:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 20104, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 17:03:34 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-08 17:27:45 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-08 17:27:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 21216, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-08 17:27:45 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-10 14:23:54 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-10 14:24:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8788, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-10 14:24:02 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+
+2024-10-11 11:11:28 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-11 11:11:37 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15944, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-11 11:11:37 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu v6 BE Disabled.dll'
+
+2024-10-16 16:47:52 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-16 16:47:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 19392, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-16 16:47:59 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+
+2024-10-16 16:51:18 *NORMAL*     Started on Windows 10.0.0.26100 x64. Driver status: 0xC0000225
+2024-10-16 16:51:20 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 5792, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-16 16:51:20 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\online_enabler_[unknowncheats.me]_.dll'
+2024-10-16 16:55:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 5792, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-16 16:55:30 *ERROR*      Can not attach to the process.
+An attempt was made to access an exiting process.
+
+2024-10-16 16:55:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14900, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-16 16:55:36 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu.dll'
+
+2024-10-19 07:12:06 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-10-19 07:12:12 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 10340, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-19 07:12:12 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu-dev-9b422e09e973bb3ddf5d69a2625b197e93eb945c.dll'
+
+2024-10-19 10:33:19 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-10-19 10:33:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13432, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-10-19 10:33:36 *CRITICAL*   Injecting image 'C:\Users\Administrator\Desktop\Yim\YimMenu-dev-9b422e09e973bb3ddf5d69a2625b197e93eb945c.dll'
+
